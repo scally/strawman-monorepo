@@ -2,7 +2,7 @@
   "name": "strawman-monorepo",
   "version": "1.0.0",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc --build"
   },
   "author": "",
   "license": "ISC",
